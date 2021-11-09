@@ -1,12 +1,5 @@
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -17,15 +10,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
+<div align="center">
+  
+[![Contributors][contributors-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/graphs/contributors)
+[![Issues][issues-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues)
+[![MIT License][license-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
+<!-- [![Forks][forks-shield]][forks-url] If needed add it later
+[![Stargazers][stars-shield]][stars-url]  If needed add it later -->
+ </p>
+</div>
+  
+  
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -36,7 +33,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Development of environmental monitoring based on IoT cloud solutions using deep learning!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -101,15 +98,15 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are the programming languages, libraries, frameworks, cloud and other tools used in this project.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
+* [Python](https://www.python.org/)
+* [Pytorch](https://pytorch.org/)
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Thinspeak](https://thingspeak.com/)
+* [Microsoft Azure cloud](https://azure.microsoft.com/en-us/)
+* [sdfsdfsd](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
