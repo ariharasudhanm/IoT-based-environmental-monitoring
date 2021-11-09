@@ -116,26 +116,26 @@ These are the programming languages, libraries, frameworks, cloud services and o
 
 
 
-### Installation
+### Data Processing
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Model creation and deployment
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [] Add Additional Templates w/ Examples
-- [] Add "components" document to easily copy & paste sections of the readme
-- [] Multi-language Support
-    - [] Chinese
-    - [] Spanish
+- [x] Sensor setup using raspberry pi
+- [x] Data feeding to cloud
+- [x] Data visualization and pre-processing
+- [] MOdel Creation (Ongoing)
+- [] Evaluation and cloud deployment
+    - [] Other data
+    - [] Model deployment in different platform
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -171,9 +171,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@AriharasudhanM](https://twitter.com/your_username) - ariharasudhan.muthusami@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [IoT-based-environmental-monitoring](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,14 +184,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [The future of environment monitoring](https://blog.smartsense.co/the-future-of-environmental-monitoring-deep-learning-and-artificial-intelligence)
+* [An IoT based Environment Monitoring System](https://ieeexplore.ieee.org/document/9316050)
+* [Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)
+* [REVIEW ON - IOT BASED ENVIRONMENT MONITORING SYSTEM](https://iaeme.com/MasterAdmin/Journal_uploads/IJECET/VOLUME_8_ISSUE_2/IJECET_08_02_014.pdf)
+* [Advances in Smart Environment Monitoring Systems Using IoT and Sensors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309034/)
+* [Design of an IoT based Real Time Environment Monitoring](https://www.matec-conferences.org/articles/matecconf/abs/2018/69/matecconf_cscc2018_03008/matecconf_cscc2018_03008.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
