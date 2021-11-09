@@ -132,8 +132,8 @@ These are the programming languages, libraries, frameworks, cloud services and o
 - [x] Data visualization and pre-processing
 - [] MOdel Creation (Ongoing)
 - [] Evaluation and cloud deployment
-    - [] Other data
-    - [] Model deployment in different platform
+    - [] Data improvement
+    - [] Model deployment in different platforms
 
 See the [open issues](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues) for a full list of proposed features (and known issues).
 
