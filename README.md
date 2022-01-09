@@ -14,7 +14,7 @@
 <div align="center">
   
 [![Contributors][contributors-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/graphs/contributors)
-[![Issues][issues-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues)
+[![Last Commit][last commit-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/graphs/commit-activity)
 [![MIT License][license-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
 <!-- [![Forks][forks-shield]][forks-url] If needed add it later
@@ -197,7 +197,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ariharasudhanm/Image-classification-using-transfer-learning?color=Green&logoColor=Red&style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
@@ -210,3 +210,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[Commit-shield]: https://img.shields.io/github/commit-activity/m/ariharasudhanm/Image-classification-using-transfer-learning?color=Green&style=for-the-badge
+[last commit-shield]: https://img.shields.io/github/last-commit/ariharasudhanm/Image-classification-using-transfer-learning?style=for-the-badge
