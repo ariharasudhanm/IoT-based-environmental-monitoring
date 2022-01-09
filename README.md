@@ -113,15 +113,16 @@ These are the programming languages, libraries, frameworks, cloud services and o
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
+As mentioned in the roadmap the first step is preparing the trained model which is under going now. Further steps will be continuosly updated.
 
 
 ### Data Processing
-
+Already few data visualization steps has been carried out, since there is not enough of data available to pre-process and start training it so the final version will be uploaded soon.The data visulization code can be found under `
+data_visualization.ipynb`.
 
 <!-- USAGE EXAMPLES -->
 ## Model creation and deployment
-
+For now code for forward propagation for the network is alrready written which can be found under `forward.py`. Soon backpropogation and trained model will be updated.
 
 
 <!-- ROADMAP -->
@@ -130,10 +131,10 @@ These are the programming languages, libraries, frameworks, cloud services and o
 - [x] Sensor setup using raspberry pi
 - [x] Data feeding to cloud
 - [x] Data visualization and pre-processing
-- [] MOdel Creation (Ongoing)
-- [] Evaluation and cloud deployment
-    - [] Data improvement
-    - [] Model deployment in different platforms
+- [-] Model Creation (Ongoing)
+- [-] Evaluation and cloud deployment(Ongoing)
+- [-] Data improvement(Ongoing)
+- [-] Model deployment in different platforms(Ongoing)
 
 See the [open issues](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues) for a full list of proposed features (and known issues).
 
@@ -211,4 +212,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Commit-shield]: https://img.shields.io/github/commit-activity/m/ariharasudhanm/Image-classification-using-transfer-learning?color=Green&style=for-the-badge
-[last commit-shield]: https://img.shields.io/github/last-commit/ariharasudhanm/Image-classification-using-transfer-learning?style=for-the-badge
+[last commit-shield]: https://img.shields.io/github/last-commit/ariharasudhanm/IoT-based-environmental-monitoring?style=for-the-badge
