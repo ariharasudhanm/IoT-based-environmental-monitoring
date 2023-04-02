@@ -135,8 +135,8 @@ For now code for forward propagation for the network is alrready written which c
 - [x] Sensor setup using raspberry pi
 - [x] Data feeding to cloud
 - [x] Data visualization and pre-processing
-- [-] Model Creation (Ongoing)
-- [-] Evaluation and cloud deployment(Ongoing)
+- [x] Model Creation (Ongoing)
+- [x] Evaluation and cloud deployment(Ongoing)
 - [-] Data improvement(Ongoing)
 - [-] Model deployment in different platforms(Ongoing)
 
