@@ -185,9 +185,9 @@ print(loss)
 
 
 #---Backward----
-activation2.backward(activation2.output)
-layer2.backward(activation2.dinputs)
-activation1.backward(layer2.inputs)
-layer1.backward(activation1.dinputs)
+# activation2.backward(activation2.output)
+# layer2.backward(activation2.dinputs)
+# activation1.backward(layer2.inputs)
+# layer1.backward(activation1.dinputs)
 
 
