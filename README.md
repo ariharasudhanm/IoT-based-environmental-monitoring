@@ -135,9 +135,9 @@ For now code for forward propagation for the network is alrready written which c
 - [x] Sensor setup using raspberry pi
 - [x] Data feeding to cloud
 - [x] Data visualization and pre-processing
-- [x] Model Creation (Ongoing)
+- [x] Model Creation 
 - [x] Evaluation and cloud deployment(Ongoing)
-- [-] Data improvement(Ongoing)
+- [-] Data improvement
 - [-] Model deployment in different platforms(Ongoing)
 
 See the [open issues](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues) for a full list of proposed features (and known issues).
