@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Three-day humidity comparison][product-screenshot]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/Images/Three_day__humidity_data.png)
+![Three-day humidity comparison](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/Images/Three_day__humidity_data.png)
 
 Initially DHT11 sensor is connected to Raspberry pi zero to mine the temperature and humidity data inside a closed room environment then data is then continuosly fed to thingspeak cloud using APIs. 
 
