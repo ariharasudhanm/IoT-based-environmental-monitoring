@@ -87,7 +87,7 @@ Project Overview:
 * Creating a machine learning model with the time series data to predict the future temperature and humidity of an environment.
 * Model deployment in cloud.
 
-For machine learning model initially, we will use neural networks to buid the model since its already one of the highly efficient for time series data.
+For machine learning model initially, we will use neural networks to buid the model as a starting point since it could be highly efficient for time series data.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
