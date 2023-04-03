@@ -117,7 +117,7 @@ As mentioned in the roadmap the first step is preparing the trained model which 
 
 
 ### Data Processing
-Already few data visualization steps has been carried out, since there is not enough of data available to pre-process and start training it so the final version will be uploaded soon.The data visulization code can be found under `
+Data visualization of mined data using few samples to get a better insights about the data.
 data_visualization.ipynb`.
 
 ![Past_humidity_reading](https://user-images.githubusercontent.com/49080561/148678165-bede04a6-ed49-4275-b0ac-fe3cef2978dc.png)
