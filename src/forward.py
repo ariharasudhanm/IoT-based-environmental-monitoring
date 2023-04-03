@@ -177,17 +177,5 @@ if len(y.shape) == 2:
 accuracy = np.mean(predictions == y)
 print(loss)
 
-    # if not epoch %100:
-    #     print(f'epoch:{epoch}'+
-    #           f'acc:{accuracy:.3f}'+
-    #           f'loss:{loss:.3f}')
-
-
-
-#---Backward----
-# activation2.backward(activation2.output)
-# layer2.backward(activation2.dinputs)
-# activation1.backward(layer2.inputs)
-# layer1.backward(activation1.dinputs)
 
 
